@@ -39,7 +39,7 @@ module NETBuildpack::Util
       micro, qualifier = micro_and_qualifier tail
 
       self.concat [major, minor, micro, qualifier]
-      validate allow_wildcards
+      #validate allow_wildcards
     end
 
     # Compare this to another array
