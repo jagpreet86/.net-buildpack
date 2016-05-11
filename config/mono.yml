@@ -16,4 +16,4 @@
 # Configuration for Mono repositories
 ---
 repository_root: "https://s3-ap-southeast-1.amazonaws.com/monos3/mono-3.4.0_full.tar.gz"
-#version: 3.4.0_full
+version: 3.4.0_full
